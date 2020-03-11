@@ -1,6 +1,6 @@
 # sdseml_online_exercises
 Online exercise classes for the course "Social Data Science: Econometrics and Machine Learning"
-Course material can be found at [the main repo](https://github.com/abjer/sds_eml_2020/blob/master/README.md).
+Course material can be found at [the main repo](https://github.com/abjer/sds_eml_2020/).
 
 ## General information
 As of march 11th UCPH is recommends moving courses online to reduce exposure to coronavirus. In line with this recommendation we are moving the exercise classes of SDSEML online. The last in-class exercise will take place on March 13. ~~Note that (for now) this is only a recommendation; other courses you follow might continue with in-class teaching. Since our exercises are relatively well suited for online teaching we have chosen to adapt the recommendation quickly.~~ News move faster than we could have thought. Starting tomorrow all of your activites at the university should be cancelled or moved online.
