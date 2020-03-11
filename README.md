@@ -32,7 +32,7 @@ _Note:_ the purpose of moving the exercises online is to reduce face-to-face con
 
 ## Q/A
 **Where will the exercises be posted?**
-Exercises are posted still posted in [the main repo](https://github.com/abjer/sds_eml_2020/blob/master/README.md). 
+Exercises are posted still posted in [the main repo](https://github.com/abjer/sds_eml_2020/). 
 
 **When are the exercises posted?**
 We will try to implement a fixed schedule for releasing exercises, but to begin with the time they are posted will be varying. If you are wondering why an exercise set still haven't been posted, send Kristian an email.
