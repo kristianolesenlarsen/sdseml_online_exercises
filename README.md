@@ -29,6 +29,8 @@ You are allowed to complete the exercises in groups of any size. If you work in 
 
 _Note:_ the purpose of moving the exercises online is to reduce face-to-face contact between students. Thus we also recommend that you carry out your group work online, to the extend possible.
 
+## Dates
+* Hand in your progress on exercise set 5 and the quick warmup (20/3/2020).
 
 ## Q/A
 **Where will the exercises be posted?**
