@@ -30,7 +30,7 @@ You are allowed to complete the exercises in groups of any size. If you work in 
 _Note:_ the purpose of moving the exercises online is to reduce face-to-face contact between students. Thus we also recommend that you carry out your group work online, to the extend possible.
 
 ## Dates
-* Hand in your progress on exercise set 5 and the quick warmup (Due 20/3/2020).
+* **(20/3/2020)** Hand in your progress on [exercise 5](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/exercise_5.ipynb) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_4_nosolution.pdf).
 
 ## Q/A
 **Where will the exercises be posted?**
