@@ -11,7 +11,7 @@ We will try to keep as much of the structure of the in-class exercises as possib
 ### Handing in
 Instead of in-class feedback you must "hand in" your progress on the previous exercise sets as we go. There are no requirements about completing the exercises, but the material you hand in should reflect that you have spend some time attempting to solve the problems. 
 
-To hand in you need a (group) folder in this repository. Here is a short guide (more detailed instructions are readily available online):
+To hand in you need a (group) folder in this repository. Here is a short guide (**A friendly version of this guide is now located [here!](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/GITHUB_HOWTO.md)**):
   * Fork this repository.
   * Clone your fork to your PC.
   * Create your (group) folder and add any material you would like.
