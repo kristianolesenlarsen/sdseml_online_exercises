@@ -5,6 +5,12 @@ Course material can be found at [the main repo](https://github.com/abjer/sds_eml
 ## General information
 All teaching at UCPH is currently carried out online due to the ongoing outbreak of a coronavirus. 
 
+## Dates
+* **(20/3/2020)** Hand in your progress on [exercise 5](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/exercise_5.ipynb) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_4_nosolution.pdf).
+> *Details:* [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_5/writeup.pdf), [lecture slides](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/lecture5.pdf)
+
+* **(27/3/2020)** Hand in your progress on exercise 6 and the accompanying quick warmup.
+
 ## Online exercises
 We will try to keep as much of the structure of the in-class exercises as possible. Thus you will still see a new exercise set and a new "quick warmup" every week. However there will be some changes, which are outlined below.
 
@@ -29,12 +35,6 @@ _Note:_ if you prefer not to use your real name for your folder, you can pick an
 You are allowed to complete the exercises in groups of any size. If you work in a group you only need to submit one solution set. Please send Kristian an email saying what your group name is, and who are the members.
 
 _Note:_ the purpose of moving the exercises online is to reduce face-to-face contact between students. Thus we also recommend that you carry out your group work online, to the extend possible.
-
-## Dates
-* **(20/3/2020)** Hand in your progress on [exercise 5](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/exercise_5.ipynb) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_4_nosolution.pdf).
-> *Details:* [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_5/writeup.pdf), [lecture slides](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/lecture5.pdf)
-
-* **(27/3/2020)** Hand in your progress on exercise 6 and the accompanying quick warmup.
 
 ## Q/A
 **Where will the exercises be posted?**
