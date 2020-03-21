@@ -5,13 +5,20 @@ Course material can be found at [the main repo](https://github.com/abjer/sds_eml
 ## General information
 All teaching at UCPH is currently carried out online due to the ongoing outbreak of a coronavirus. 
 
+## Dates
+* **(20/3/2020)** Hand in your progress on [exercise 5](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/exercise_5.ipynb) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_4_nosolution.pdf).
+> *Details:* [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_5/writeup.pdf), [lecture slides](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/lecture5.pdf)
+
+* **(27/3/2020)** Hand in your progress on [exercise 6](https://github.com/abjer/sds_eml_2020/blob/master/material/session_6/exercise_6.ipynb) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_5_nosolution.pdf).
+> *Details:* [lecture](https://github.com/abjer/sds_eml_2020/blob/master/material/session_6/lecture6.ipynb), writeup
+
 ## Online exercises
 We will try to keep as much of the structure of the in-class exercises as possible. Thus you will still see a new exercise set and a new "quick warmup" every week. However there will be some changes, which are outlined below.
 
 ### Handing in
 Instead of in-class feedback you must "hand in" your progress on the previous exercise sets as we go. There are no requirements about completing the exercises, but the material you hand in should reflect that you have spend some time attempting to solve the problems. 
 
-To hand in you need a (group) folder in this repository. Here is a short guide (more detailed instructions are readily available online):
+To hand in you need a (group) folder in this repository. Here is a short guide (**A friendly version of this guide is now located [here!](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/GITHUB_HOWTO.md)**):
   * Fork this repository.
   * Clone your fork to your PC.
   * Create your (group) folder and add any material you would like.
@@ -29,12 +36,6 @@ _Note:_ if you prefer not to use your real name for your folder, you can pick an
 You are allowed to complete the exercises in groups of any size. If you work in a group you only need to submit one solution set. Please send Kristian an email saying what your group name is, and who are the members.
 
 _Note:_ the purpose of moving the exercises online is to reduce face-to-face contact between students. Thus we also recommend that you carry out your group work online, to the extend possible.
-
-## Dates
-* **(20/3/2020)** Hand in your progress on [exercise 5](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/exercise_5.ipynb) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_4_nosolution.pdf).
-> *Details:* [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_5/writeup.pdf), [lecture slides](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/lecture5.pdf)
-
-* **(27/3/2020)** Hand in your progress on exercise 6 and the accompanying quick warmup.
 
 ## Q/A
 **Where will the exercises be posted?**
