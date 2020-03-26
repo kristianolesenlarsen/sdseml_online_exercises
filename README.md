@@ -18,7 +18,7 @@ All teaching at UCPH is currently carried out online due to the ongoing outbreak
 We will try to keep as much of the structure of the in-class exercises as possible. Thus you will still see a new exercise set and a new "quick warmup" every week. However there will be some changes, which are outlined below.
 
 ### Handing in
-Instead of in-class feedback you must "hand in" your progress on the previous exercise sets as we go. There are no requirements about completing the exercises, but the material you hand in should reflect that you have spend some time attempting to solve the problems. 
+Instead of in-class feedback you must "hand in" your progress on the previous exercise sets as we go. There are no requirements about completing the exercises, but the material you hand in should reflect that you have spend some time attempting to solve the problems. You will receive a 0/1 grade for each submitted exercise which counts towards your evaluation on assignment 2.
 
 To hand in you need a (group) folder in this repository. Here is a short guide (**A friendly version of this guide is now located [here!](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/GITHUB_HOWTO.md)**):
   * Fork this repository.
