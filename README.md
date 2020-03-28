@@ -34,7 +34,7 @@ To hand in you need a (group) folder in this repository. Here is a short guide (
  
 To hand in, push your solutions to your (groups) folder in this repository. Your answers to the exercises can be handed in as a jupyter notebook, while the "quick warmup" should be supplied as a .py file. 
 
-In the repo you will already see an example of how to structure your (groups) folder. I have pushed my solutions to exercise 6, and created a folder for exercise 6 in my folder "TA_EXAMPLE_FOLDER".
+In the repo you will already see an example of how to structure your (groups) folder. I have pushed my solutions to exercise 5, and created a folder for exercise 6 in my folder "TA_EXAMPLE_FOLDER".
 
 _Note:_ if you prefer not to use your real name for your folder, you can pick any other name for it, and send Kristian an email stating which folder you have created.
 
