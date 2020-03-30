@@ -1,6 +1,6 @@
 from random import uniform
 
-def my_decorator(n):
+def retry_n_times(n):
     def _decorator(fnc):
         def _wrapped():
             attempts = 0
@@ -15,7 +15,7 @@ def my_decorator(n):
         return _wrapped
     return _decorator
 
-@my_decorator(10)
+@retry_n_times(10)
 def this_might_fail():
     c = uniform(0,1) > 0.8
     if c: return 'Success'
