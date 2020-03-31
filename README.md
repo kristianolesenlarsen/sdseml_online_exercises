@@ -10,13 +10,19 @@ All teaching at UCPH is currently carried out online due to the ongoing outbreak
 > *Details:* [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_5/writeup.pdf), [lecture slides](https://github.com/abjer/sds_eml_2020/blob/master/material/session_5/lecture5.pdf)
 
 * **(27/3/2020)** Hand in your progress on [exercise 6](https://github.com/abjer/sds_eml_2020/blob/master/material/session_6/exercise_6.ipynb) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_5_nosolution.pdf).
-> *Details:* [lecture](https://github.com/abjer/sds_eml_2020/blob/master/material/session_6/lecture6.ipynb), writeup
+> *Details:* [lecture](https://github.com/abjer/sds_eml_2020/blob/master/material/session_6/lecture6.ipynb), [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_6/writeup.pdf)
+
+* **(3/4/2020)** Hand in [assignment 1](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/ASSIGNMENT_1/assignment_1.ipynb).
+
+* **(3/4/2020)** Hand in [exercise 7](https://github.com/abjer/sds_eml_2020/blob/master/material/session_7/exercise_7.ipynb) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_6_nosolution.pdf)
+> *Details:* [Lecture](https://github.com/abjer/sds_eml_2020/blob/master/material/session_7/lecture7.ipynb), [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_7/writeup.pdf)
+
 
 ## Online exercises
 We will try to keep as much of the structure of the in-class exercises as possible. Thus you will still see a new exercise set and a new "quick warmup" every week. However there will be some changes, which are outlined below.
 
 ### Handing in
-Instead of in-class feedback you must "hand in" your progress on the previous exercise sets as we go. There are no requirements about completing the exercises, but the material you hand in should reflect that you have spend some time attempting to solve the problems. 
+Instead of in-class feedback you must "hand in" your progress on the previous exercise sets as we go. There are no requirements about completing the exercises, but the material you hand in should reflect that you have spend some time attempting to solve the problems. You will receive a 0/1 grade for each submitted exercise which counts towards your evaluation on assignment 2.
 
 To hand in you need a (group) folder in this repository. Here is a short guide (**A friendly version of this guide is now located [here!](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/GITHUB_HOWTO.md)**):
   * Fork this repository.
@@ -28,7 +34,7 @@ To hand in you need a (group) folder in this repository. Here is a short guide (
  
 To hand in, push your solutions to your (groups) folder in this repository. Your answers to the exercises can be handed in as a jupyter notebook, while the "quick warmup" should be supplied as a .py file. 
 
-In the repo you will already see an example of how to structure your (groups) folder. I have pushed my solutions to exercise 6, and created a folder for exercise 6 in my folder "TA_EXAMPLE_FOLDER".
+In the repo you will already see an example of how to structure your (groups) folder. I have pushed my solutions to exercise 5, and created a folder for exercise 6 in my folder "TA_EXAMPLE_FOLDER".
 
 _Note:_ if you prefer not to use your real name for your folder, you can pick any other name for it, and send Kristian an email stating which folder you have created.
 
@@ -42,7 +48,7 @@ _Note:_ the purpose of moving the exercises online is to reduce face-to-face con
 Exercises are posted still posted in [the main repo](https://github.com/abjer/sds_eml_2020/). 
 
 **When are the exercises posted?**
-We will try to implement a fixed schedule for releasing exercises, but to begin with the time they are posted will be varying. If you are wondering why an exercise set still haven't been posted, send Kristian an email.
+At the earliest thursday afternoon. At latest friday evening. If you are wondering why an exercise set still haven't been posted, send Kristian an email.
 
 **When will in-class exercises resume?** We don't know, but would not be surprised if we have to run exercises online for the remainder of the semester.
 
