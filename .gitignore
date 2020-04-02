@@ -2,3 +2,11 @@
 */.DS_Store
 *.DS_Store*
 .DS_Store
+
+*.GeoJSON
+*.Geojson 
+*.geojson 
+*.csv
+
+
+*.ipynb_checkpoints
