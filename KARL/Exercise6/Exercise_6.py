@@ -23,6 +23,11 @@ from sklearn.linear_model import LassoCV, Lasso
 from sklearn.utils.testing import ignore_warnings
 from sklearn.exceptions import ConvergenceWarning
 
+### --------------------------------------------------------------------------- ###
+### ----- JEG HAR IKKE NÅET AT LAVE EN JUPYTER NOTEBOOK MED RESULTATERNE, ----- ###
+### -------------- SOM DU FORESLOG - JEG GØR DET NÆSTE GANG ------------------- ###
+### --------------------------------------------------------------------------- ###
+
 ### ----- Ex. 6.1.1: Rewrite the below code to define a function simulate(n, m, k, plot), where plot is a boolean
 ### ----- indicating whether the density plot should be drawn or not. Your function should return all the matrices and
 ### ----- vectors required in the regression equations, including parameters and errors.
