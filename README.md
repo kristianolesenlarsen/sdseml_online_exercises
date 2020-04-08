@@ -18,6 +18,9 @@ All teaching at UCPH is currently carried out online due to the ongoing outbreak
 > *Details:* [Lecture](https://github.com/abjer/sds_eml_2020/blob/master/material/session_7/lecture7.ipynb), [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_7/writeup.pdf)
 
 
+* **(10/4/2020)** Hand in [exercise 9](https://github.com/abjer/sds_eml_2020/blob/master/material/session_9/exercises_week9.ipynb) (yes we skipped a number) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_7_nosolution.pdf).
+> *Details:* [Lecture](https://www.dropbox.com/s/43ya0a9jmaa6exk/slides_week9_mov.m4v?raw=1), [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_9/writeup.pdf)
+
 ## Online exercises
 We will try to keep as much of the structure of the in-class exercises as possible. Thus you will still see a new exercise set and a new "quick warmup" every week. However there will be some changes, which are outlined below.
 
