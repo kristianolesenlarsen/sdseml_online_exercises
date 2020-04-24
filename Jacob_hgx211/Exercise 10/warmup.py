@@ -42,7 +42,8 @@ while m**2 - n**2 < N:
     m += 1
     
 # Graph all triples in (a,b) space
-# pip install git+https://github.com/garrettj403/SciencePlots.git    
+# pip install git+https://github.com/garrettj403/SciencePlots.git
+plt.style.use('science')    
 plt.figure(figsize=(8,6),dpi=400)
 plt.scatter([triple[0] for triple in triples],
            [triple[1] for triple in triples], s=0.5)
