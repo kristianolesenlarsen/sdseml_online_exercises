@@ -28,7 +28,7 @@ All teaching at UCPH is currently carried out online due to the ongoing outbreak
 > *Details:* Lecture, [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_11/writeup.pdf)
 
 * **(21/5/2020)** Hand in [exercise 12](https://github.com/abjer/sds_eml_2020/blob/master/material/session_12/exercise_12.ipynb) and the accompanying [quick warmup](https://github.com/abjer/sds_eml_2020/blob/master/exercises/exercise_10_nosolution.pdf).
-> *Details:* Lecture, writeup
+> *Details:* Lecture, [writeup](https://github.com/Kristianuruplarsen/sdseml_online_exercises/blob/master/TA_EXAMPLE_FOLDER/exercise_12/writeup.pdf)
 
 
 ## Online exercises
