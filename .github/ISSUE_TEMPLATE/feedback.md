@@ -1,9 +1,9 @@
 ---
 name: Feedback
 about: Feedback for students
-title: 'Feedback Ex11: #'
+title: 'Feedback Ex12: #'
 labels: ''
-assignees: ''
+assignees: Kristianuruplarsen
 
 ---
 
@@ -13,4 +13,4 @@ assignees: ''
 
 **The exercises**
 
-**Score: **
+**Score: ** _sorry your feedback is a bit brief this time_
